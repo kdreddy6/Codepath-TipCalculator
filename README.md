@@ -1,4 +1,3 @@
-# Codepath-TipCalculator
 # Pre-work - *Tip Calculator*
 
 **Name of your app** is a tip calculator application for iOS.
