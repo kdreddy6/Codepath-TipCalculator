@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/Ks0GbDkbjhYS1WOXO3/giphy.gif' title='Codepath iOS TipCalculator demo' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 
